@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobiiInteractionFreePIE", "TobiiInteractionFreePIE\TobiiInteractionFreePIE.csproj", "{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		DebugInPlace|Any CPU = DebugInPlace|Any CPU
+		DebugInPlace|x86 = DebugInPlace|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.DebugInPlace|Any CPU.ActiveCfg = DebugInPlace|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.DebugInPlace|Any CPU.Build.0 = DebugInPlace|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.DebugInPlace|x86.ActiveCfg = DebugInPlace|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.DebugInPlace|x86.Build.0 = DebugInPlace|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.Release|x86.ActiveCfg = Debug|Any CPU
+		{DC54AEFB-1C11-4CEB-8353-6DF3E7DADDDE}.Release|x86.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B16D149-6D8E-4675-BDBA-CCDE990FA218}
+	EndGlobalSection
+EndGlobal
