@@ -91,7 +91,10 @@ namespace TobiiInteractionFreePIE {
             gazeDataStream.Next += GazeDataStreamOnNext;
             eyeDataStream.Next += EyeDataStreamOnNext;
 
-            Started(this, null);
+            if (Started != null)
+            {
+                Started(this, null);
+            }
 
             return null;
         }
